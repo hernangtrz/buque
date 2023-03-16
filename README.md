@@ -37,6 +37,7 @@ un objeto de tipo contenedor.
 
 
 Para probar la aplicación, se solicita crear una clase principal y en ella:
+
 1 . Crear un buque
 2. Cargar dos o tres contenedores, utilice los dos métodos (analizar resultado)
 3. Imprimir área y peso disponible del buque (analizar resultado)
